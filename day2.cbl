@@ -1,4 +1,4 @@
-IDENTIFICATION DIVISION. *> Compile and run with cobc -std=cobol2014 --free -x day1.cbl -j
+IDENTIFICATION DIVISION. *> Compile and run with cobc -std=cobol2014 --free -x day2.cbl -j
 PROGRAM-ID. DAY2.
 
 ENVIRONMENT DIVISION.
